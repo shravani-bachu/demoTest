@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/shravani-test/:/",
-    "/content/shravani-test/configuration:/.helix/config.json",
-    "/content/shravani-test/metadata:/metadata.json"
+    "/content/shravani-demo-test/:/",
+    "/content/shravani-demo-test/configuration:/.helix/config.json",
+    "/content/shravani-demo-test/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/shravani-test/"
+    "/content/shravani-demo-test/"
   ]
 }
